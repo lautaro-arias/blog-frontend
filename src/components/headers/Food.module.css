@@ -1,0 +1,93 @@
+
+.food {
+    background-color: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: center;
+    justify-content:space-between;
+    padding: 1rem;
+    border-bottom:1px solid #000000 ;
+    margin: 1px;
+}
+
+
+.home {
+
+    font-family: system-ui;
+    font-weight:bold ;
+    color: #ffff;
+    justify-content: center;
+    text-decoration: none;
+    padding-right: 20px;
+}
+.home:hover {
+   color: #f40651 ;
+}
+
+
+
+.features {
+    font-family: system-ui;
+    font-weight:bold ;
+    color: #ffff;
+    justify-content: center;
+    text-decoration: none;
+    padding-right: 20px;
+}
+.features:hover{
+    color:#f40651;
+}
+
+
+
+.receipies{
+    font-family: system-ui;
+    font-weight:bold ;
+    color: #ffff;
+    justify-content: center;
+    text-decoration: none;
+    padding-right: 20px;
+}
+.receipies:hover {
+    color: #f40651;
+}
+
+
+.reviews{
+    font-family: system-ui;
+    font-weight:bold ;
+    color: #ffff;
+    justify-content: center;
+    text-decoration: none; 
+    padding-right: 20px;
+}
+.reviews:hover {
+    color: #f40651;
+}
+
+
+.contact {
+    font-family: system-ui;
+    font-weight:bold ;
+    color: #ffff;
+    justify-content: center;
+    text-decoration: none; 
+    padding-right: 20px;
+}
+.contact:hover{
+    color: #f40651;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+.container{
+    background-color:  #f40651;
+}
+
+.register{
+    font-family: system-ui;
+    font-weight:bold ;
+    color:  #ffffff;
+    justify-content: center;
+    text-decoration: none;
+    
+
+   
+}
+
+.register:hover {
+    color: #ffffff;
+}
+
+.login{
+    font-family: system-ui;
+    font-weight:bold ;
+    color:  #ffffff;
+    justify-content: flex-end;
+    text-decoration: none;
+   
+}
+
+.login:hover{
+    color:  #ffffff;
+}
+
+
+

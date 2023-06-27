@@ -1,0 +1,56 @@
+
+.img{
+    height: 20rem;
+    width: 100%;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 5rem;
+    padding: 5px;
+    height: auto;
+    border-radius: 20px;
+    animation: BGcolorChanging-4-color 8s linear alternate both infinite;
+
+}
+@keyframes BGcolorChanging-4-color{
+    0%{
+        background: #f40651;
+    }
+    33.333%{
+        background: #DAA520;
+    }
+    66.666%{
+        background: #ce5d11;
+    }
+    100%{
+        background:#fadd03;
+    }
+}
+
+.title{
+    font-size: 25px;
+    color:#ffffff;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    margin-bottom: 5px;
+
+}
+.title:hover{
+    color:#ffffff
+}
+
+
+.text{
+    font-size: 18px;
+    color:#ffffff;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.text:hover{
+    color:#ffffff
+}
+

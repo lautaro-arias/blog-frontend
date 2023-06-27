@@ -1,0 +1,53 @@
+
+.table {
+    background-color: #000000;
+    margin: 10px;
+    border-radius: 10px;
+    justify-content: left;
+    text-align: start;
+    width: 20rem;
+    box-shadow: 0px 1px 10px #000000;
+    transition: all 400ms ease;
+}
+
+.container{
+    justify-content: start;
+    background-color: #000000;
+    border-radius: 6px;
+   
+
+}
+.table:hover{
+    box-shadow: 5px 5px 20px #f40651;
+    transform: translateX(+3%);
+}
+
+
+.img {
+    min-height: 1rem;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    width:100%; 
+   
+}
+
+
+.fecha{
+    padding: 2px;
+    padding-left: 5px;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+
+.name{
+    margin-left: 4px;
+    padding-bottom: 2rem;
+    font-family: Arial; 
+    font-size: 20px; 
+    COLOR:  #f40651; 
+    text-shadow: 0px 0px 9px #f40651;
+}
+
+

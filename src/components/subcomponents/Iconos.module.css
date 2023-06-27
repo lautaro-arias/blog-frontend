@@ -1,0 +1,14 @@
+.iconos{
+    display: inline-flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.icon{
+    
+    color: #ffffff;
+    margin-right: 20px;
+}
+.icon:hover{
+    color: #DAA520;
+}

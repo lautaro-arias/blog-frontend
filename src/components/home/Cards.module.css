@@ -1,0 +1,21 @@
+.container {
+   background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    padding: 10rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    margin-left: 4px;
+    padding-bottom: 2rem;
+    font-family: Arial; 
+    font-size: 40px; 
+    COLOR:  #f40651; 
+    text-shadow: 0px 0px 9px #f40651;
+}
+.title:hover{
+    color:  #DAA520;
+
+}
